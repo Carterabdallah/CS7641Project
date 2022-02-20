@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS7641 Group 16
 
 You can use the [editor on GitHub](https://github.com/Carterabdallah/CS7641Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
